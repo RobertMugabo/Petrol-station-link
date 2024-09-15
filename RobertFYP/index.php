@@ -510,7 +510,7 @@
 
 <!-- Template Main JS File -->
 <script src="assets/js/main.js"></script>
-<form action="forms/contact.php" method="post" role="form" class="php-email-form">
+<form action="#" method="post" role="form" class="php-email-form">
               <div class="row">
                 <div class="col-md-6 form-group">
                   <input type="text" name="name" class="form-control" id="name" placeholder="Your Name" required>
@@ -530,7 +530,8 @@
                 <div class="error-message"></div>
                 <div class="sent-message">Your message has been sent. Thank you!</div>
               </div> -->
-              <button type="submit" name="send" class="btn btn-primary">Send Message</button>
+              <!-- <button type="submit" name="send" class="btn btn-primary">Send Message</button> -->
+              <input type="submit" name="send" class="btn btn-primary" value="Send Message">
             </form>
 </body>
 
