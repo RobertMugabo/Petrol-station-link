@@ -5,7 +5,7 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>Dashboard - NiceAdmin Bootstrap Template</title>
+  <title>User Dashboard</title>
   <meta content="" name="description">
   <meta content="" name="keywords">
 
@@ -269,7 +269,7 @@
     <ul class="sidebar-nav" id="sidebar-nav">
 
       <li class="nav-item">
-        <a class="nav-link " href="index.html">
+        <a class="nav-link " href="home.php">
           <i class="bi bi-grid"></i>
           <span>Dashboard</span>
         </a>
@@ -314,13 +314,7 @@
         </a>
       </li><!-- End Contact Page Nav -->
 
-      <li class="nav-item">
-        <a class="nav-link collapsed" href="../RobertFYP/RobertFYP/addworker.php">
-          <i class="bi bi-card-list"></i>
-          <span>Register</span>
-        </a>
-      </li><!-- End Register Page Nav -->
-
+  
 
 
     </ul>
@@ -333,7 +327,7 @@
       <h1>Dashboard</h1>
       <nav>
         <ol class="breadcrumb">
-          <li class="breadcrumb-item"><a href="index.html">Home</a></li>
+          <li class="breadcrumb-item"><a href="home.php">Home</a></li>
           <li class="breadcrumb-item active">Dashboard</li>
         </ol>
       </nav>
